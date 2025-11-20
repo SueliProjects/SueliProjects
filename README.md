@@ -2,7 +2,7 @@
 ## Olá!
 
 - 🔭 Atualmente estou cursando Engenharia de Software na Anhanguera
-- 🌱 Estudando desenvolvimento Web Front-end
+- 🌱 Estudando Back End Java tendo base no Front End
 - 📫 Como entrar em contato comigo: suelisilvasantos2499@gmail.com
 - 😄 Pronomes: Ela/Dela
   
