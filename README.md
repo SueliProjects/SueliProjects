@@ -15,6 +15,8 @@
 
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img width="48" height="48" alt="icons8-power-bi-48" src="https://github.com/user-attachments/assets/cab70c3c-6c43-44b0-b3e5-90f5858a9984" />
+
 
 ## Contatos:
 <div>
